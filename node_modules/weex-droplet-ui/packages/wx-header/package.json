@@ -1,0 +1,24 @@
+{
+  "name": "wx-headerbar",
+  "version": "0.1.0",
+  "description": "weex headerbar",
+  "main": "index.js",
+  "type": "weex",
+  "repository": "https://github.com/houbank/droplet-ui/tree/master/packages/wx-headerbar",
+  "keywords": [
+    "Weex",
+    "Vue",
+    "WeexComponent",
+    "headerbar",
+    "WeexUi"
+  ],
+  "weex": {
+    "plugins": {},
+    "market": {
+      "thumbnail": "https://img.alicdn.com/tfs/TB1harlSXXXXXaoXpXXXXXXXXXX-750-1334.png"
+    }
+  },
+  "author": "HB",
+  "license": "MIT",
+  "dependencies": {}
+}
